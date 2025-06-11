@@ -1,10 +1,6 @@
-# Students-Record-Maintenance
-This repo demonstrates a simplistic way to create and maintain student records for college/university.
-
-steps:
-1. Using UserRegistry code methods to add user or check existing user.
-2. in terminal type: 'uvicorn Fastapi_DB_Operations:app --reload' (this starts the server)
-3. after server has started go to http://127.0.0.1:8000/docs .Then login and perform operations.
-
-Upcoming:
-Soon I will try to add method to predict next semester score based on current semester data of a student.
+#Academic Fellow Analysis
+In recent times we might have came across news regarding illegal and criminal activities from professional from different fields of work.
+The number of educated individuals participateing in such incidents has increased in recent times. These motives cannot come into a person instantly, which means they might have had it in them either from beginning(academic times) or might have developed it by looking into society could be possible. Parents plays a major role in a child's transformation. But strong beliefs can be develeoped during academic years. This project reflects my thought of how a person(mainly targeting academicians) academic as well as mental, character and thinking progress could be tracked.
+If implemented from schooling times the every individul's record could be stored by schools and later can be transfered to collage/universities as well as government(if records are attached to individual's aadhar). Further record of indivial can be accessed using aadhar by organization during recruitment and further add info regarding his/her behaviour/work/etc. by HR.
+This can help tracking the reason for crimes commited by an individual(mainly targeting educated) by govt.
+In furthur scope for this project 'Sppech & Mood' from the Psychiatrist appointed recording could be analyzed using AI/ML.
